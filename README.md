@@ -12,12 +12,12 @@ Secure Key Management: The encryption key is generated securely and is required 
 
 # How to Use
 
-Clone the repository or download the encrypt_image.py script.
+Clone the repository or download the **encrypt_image.py** script.
 
-Install the required libraries using pip install Pillow cryptography.
+Install the required libraries using **pip install Pillow cryptography**.
 
 Run the script and provide the path to the image file you want to encrypt.
 
-The script will generate a unique encryption key and save the encrypted image as encrypted_image.jpg.
+The script will generate a unique encryption key and save the encrypted image as **encrypted_image.jpg**.
 
 Note: Keep the encryption key secure and do not share it with unauthorized parties. Without the key, the encrypted image cannot be decrypted.
